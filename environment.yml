@@ -1,0 +1,9 @@
+
+name: dm-dev-env
+dependencies:
+- python=3.6
+- matplotlib
+- numpy
+- seaborn
+- scikit-learn
+- pandas
